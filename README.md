@@ -18,8 +18,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
-![Screenshot 2024-03-13 153445](https://github.com/SUBBIAH1904/Muttiple-capacity-with-infinite-capacity/assets/147473604/c6fcca46-9716-40f7-a9e1-6d30fc3bf513)
-![Screenshot 2024-03-13 153507](https://github.com/SUBBIAH1904/Muttiple-capacity-with-infinite-capacity/assets/147473604/d42cfe5d-cb7d-43a7-91e1-124631ecb2ad)
+![Screenshot 2024-03-13 153814](https://github.com/SUBBIAH1904/Muttiple-capacity-with-infinite-capacity/assets/147473604/b02a2d3a-9912-4379-bc61-5f01720ac41b)
+![Screenshot 2024-03-13 153831](https://github.com/SUBBIAH1904/Muttiple-capacity-with-infinite-capacity/assets/147473604/2020a93b-9547-4d28-ad5e-76cbc4ff38a6)
 
 ## Program:
 ## NAME : SUBBIAH S REGISTER NO : 212223220111
